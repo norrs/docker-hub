@@ -24,5 +24,5 @@ $ docker run -e HUB_CONFIG=/hub-config -ti --entrypoint /bin/sh -v $HOME/.config
 host=github.com
 protocol=https
 <ctrl+d>
-# You should see it fill in some token stuff.. 
+# You should see it fill in some token stuff..
 ```
